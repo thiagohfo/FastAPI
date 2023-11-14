@@ -174,3 +174,107 @@ Log: [ddaf7adf-f07d-489b-b28a-8d41d39f30a8: 2023-10-10T13:46:00.615102-0300 - IN
 Log: [ddaf7adf-f07d-489b-b28a-8d41d39f30a8: 2023-10-10T13:46:00.619182-0300 - INFO - Successfully accessed /university/1 
 Log: [4ebc01f2-a352-435a-8db9-cbf658a255db: 2023-10-10T13:46:15.875550-0300 - INFO - Request to access /university/2 
 Log: [4ebc01f2-a352-435a-8db9-cbf658a255db: 2023-10-10T13:46:15.877639-0300 - INFO - Successfully accessed /university/2 
+Log: [800b2aa5-5bb3-4e19-83ac-43ca51ea87f4: 2023-11-06T19:29:34.075822-0300 - INFO - Request to access / 
+Log: [800b2aa5-5bb3-4e19-83ac-43ca51ea87f4: 2023-11-06T19:29:34.076502-0300 - INFO - Successfully accessed / 
+Log: [32e39b59-0cc0-4af9-a542-efec745472af: 2023-11-06T19:29:38.787790-0300 - INFO - Request to access / 
+Log: [32e39b59-0cc0-4af9-a542-efec745472af: 2023-11-06T19:29:38.788899-0300 - INFO - Successfully accessed / 
+Log: [f7646030-11f9-409c-b189-6435e43db9ac: 2023-11-06T19:29:45.659057-0300 - INFO - Request to access /docs 
+Log: [f7646030-11f9-409c-b189-6435e43db9ac: 2023-11-06T19:29:45.660457-0300 - INFO - Successfully accessed /docs 
+Log: [d348c6e9-bd7e-4ae6-a039-a7f695232e3d: 2023-11-06T19:29:45.817005-0300 - INFO - Request to access /openapi.json 
+Log: [d348c6e9-bd7e-4ae6-a039-a7f695232e3d: 2023-11-06T19:29:45.820557-0300 - INFO - Successfully accessed /openapi.json 
+Log: [a077eee4-a6e6-4ffa-b275-e3dc2b8734e2: 2023-11-06T19:29:50.063305-0300 - INFO - Request to access /university/1 
+Log: [a077eee4-a6e6-4ffa-b275-e3dc2b8734e2: 2023-11-06T19:29:50.066294-0300 - INFO - Successfully accessed /university/1 
+Log: [4806dd4c-5d37-480a-a9b8-0643473961ed: 2023-11-06T19:29:57.142606-0300 - INFO - Request to access /university/1 
+Log: [4806dd4c-5d37-480a-a9b8-0643473961ed: 2023-11-06T19:29:57.144312-0300 - INFO - Successfully accessed /university/1 
+Log: [cc6e1a52-25e5-406e-83fa-b193d494b0d2: 2023-11-06T19:31:39.141929-0300 - INFO - Request to access /university/3 
+Log: [cc6e1a52-25e5-406e-83fa-b193d494b0d2: 2023-11-06T19:31:39.144231-0300 - INFO - Successfully accessed /university/3 
+Log: [0e3fb549-e5eb-4e9c-b7a5-24b5fdb2a0df: 2023-11-06T19:31:40.142967-0300 - INFO - Request to access /university/3 
+Log: [0e3fb549-e5eb-4e9c-b7a5-24b5fdb2a0df: 2023-11-06T19:31:40.144688-0300 - INFO - Successfully accessed /university/3 
+Log: [2c2c38f0-96c1-4b47-93b5-4a86b0d7da8e: 2023-11-06T19:31:41.400533-0300 - INFO - Request to access /university/1 
+Log: [2c2c38f0-96c1-4b47-93b5-4a86b0d7da8e: 2023-11-06T19:31:41.402037-0300 - INFO - Successfully accessed /university/1 
+Log: [628c3afa-d8f1-4147-bfb6-cec6345ecd8b: 2023-11-06T19:31:42.832893-0300 - INFO - Request to access /university/2 
+Log: [628c3afa-d8f1-4147-bfb6-cec6345ecd8b: 2023-11-06T19:31:42.834639-0300 - INFO - Successfully accessed /university/2 
+Log: [a4d8929f-4d20-44b5-929f-00b6c41819ef: 2023-11-06T19:32:04.183881-0300 - INFO - Request to access /docs 
+Log: [a4d8929f-4d20-44b5-929f-00b6c41819ef: 2023-11-06T19:32:04.184958-0300 - INFO - Successfully accessed /docs 
+Log: [f2173d15-20f2-4f0b-a2b0-bc0bdacdfc2d: 2023-11-06T19:32:04.234252-0300 - INFO - Request to access /openapi.json 
+Log: [f2173d15-20f2-4f0b-a2b0-bc0bdacdfc2d: 2023-11-06T19:32:04.236281-0300 - INFO - Successfully accessed /openapi.json 
+Log: [03b471b9-5ed5-4a14-987b-7a4e7ff7b058: 2023-11-06T19:32:07.420778-0300 - INFO - Request to access /university/1 
+Log: [03b471b9-5ed5-4a14-987b-7a4e7ff7b058: 2023-11-06T19:32:07.422465-0300 - INFO - Successfully accessed /university/1 
+Log: [d7a96bad-01d9-4133-b017-581a0e4f6ec1: 2023-11-06T19:32:10.020678-0300 - INFO - Request to access /university/2 
+Log: [d7a96bad-01d9-4133-b017-581a0e4f6ec1: 2023-11-06T19:32:10.022371-0300 - INFO - Successfully accessed /university/2 
+Log: [7eedfb4c-6227-4785-9c5d-a9f21cc951f3: 2023-11-06T19:32:11.544446-0300 - INFO - Request to access /university/3 
+Log: [7eedfb4c-6227-4785-9c5d-a9f21cc951f3: 2023-11-06T19:32:11.545893-0300 - INFO - Successfully accessed /university/3 
+Log: [b2807611-9d6a-4201-b787-4eeebcecc91a: 2023-11-06T19:32:16.139187-0300 - INFO - Request to access /university/2 
+Log: [b2807611-9d6a-4201-b787-4eeebcecc91a: 2023-11-06T19:32:16.140627-0300 - INFO - Successfully accessed /university/2 
+Log: [04b1aa76-eacc-4266-9042-31be3672b533: 2023-11-06T19:32:18.099488-0300 - INFO - Request to access /university/1 
+Log: [04b1aa76-eacc-4266-9042-31be3672b533: 2023-11-06T19:32:18.101243-0300 - INFO - Successfully accessed /university/1 
+Log: [a2c842ab-8c4c-48e4-8e23-b8277ec9a4b5: 2023-11-06T19:33:41.022723-0300 - INFO - Request to access /university/1 
+Log: [a2c842ab-8c4c-48e4-8e23-b8277ec9a4b5: 2023-11-06T19:33:41.024592-0300 - INFO - Successfully accessed /university/1 
+Log: [484ab9d8-7a7f-422b-9707-011a88057632: 2023-11-07T09:00:49.629696-0300 - INFO - Request to access / 
+Log: [484ab9d8-7a7f-422b-9707-011a88057632: 2023-11-07T09:00:49.630549-0300 - INFO - Successfully accessed / 
+Log: [57151c39-cbac-426d-89c2-5b9e9f95d028: 2023-11-07T09:00:55.519231-0300 - INFO - Request to access /docs 
+Log: [57151c39-cbac-426d-89c2-5b9e9f95d028: 2023-11-07T09:00:55.520305-0300 - INFO - Successfully accessed /docs 
+Log: [2d6799fc-a59a-4714-96e1-7232ea0ae6eb: 2023-11-07T09:00:55.579344-0300 - INFO - Request to access /openapi.json 
+Log: [2d6799fc-a59a-4714-96e1-7232ea0ae6eb: 2023-11-07T09:00:55.582997-0300 - INFO - Successfully accessed /openapi.json 
+Log: [419749c4-f23f-4773-b5a7-2c55e64fb4b4: 2023-11-07T09:01:00.341036-0300 - INFO - Request to access /university/1 
+Log: [419749c4-f23f-4773-b5a7-2c55e64fb4b4: 2023-11-07T09:01:00.343303-0300 - INFO - Successfully accessed /university/1 
+Log: [9e78fdc3-d395-4657-b9ea-4e230da550fe: 2023-11-07T09:01:29.236853-0300 - INFO - Request to access /university/3 
+Log: [9e78fdc3-d395-4657-b9ea-4e230da550fe: 2023-11-07T09:01:29.238675-0300 - INFO - Successfully accessed /university/3 
+Log: [819d04dd-bea6-4346-9581-0d27e90b4338: 2023-11-07T09:01:30.867772-0300 - INFO - Request to access /university/2 
+Log: [819d04dd-bea6-4346-9581-0d27e90b4338: 2023-11-07T09:01:30.869550-0300 - INFO - Successfully accessed /university/2 
+Log: [beef38b5-af94-45bf-8276-73a4ce49ec4b: 2023-11-07T09:01:32.485438-0300 - INFO - Request to access /university/1 
+Log: [beef38b5-af94-45bf-8276-73a4ce49ec4b: 2023-11-07T09:01:32.486503-0300 - INFO - Successfully accessed /university/1 
+Log: [19ebd88c-0fd4-4dce-8a6f-4e14be6e1311: 2023-11-07T09:01:33.317344-0300 - INFO - Request to access /university/1 
+Log: [19ebd88c-0fd4-4dce-8a6f-4e14be6e1311: 2023-11-07T09:01:33.318986-0300 - INFO - Successfully accessed /university/1 
+Log: [20c5ccd3-e778-43b3-a42d-3083a1a94151: 2023-11-07T09:03:36.312116-0300 - INFO - Request to access /docs 
+Log: [20c5ccd3-e778-43b3-a42d-3083a1a94151: 2023-11-07T09:03:36.313826-0300 - INFO - Successfully accessed /docs 
+Log: [12d38538-0ed8-46fb-8278-960854ebc134: 2023-11-07T09:03:36.398031-0300 - INFO - Request to access /openapi.json 
+Log: [12d38538-0ed8-46fb-8278-960854ebc134: 2023-11-07T09:03:36.404324-0300 - INFO - Successfully accessed /openapi.json 
+Log: [2d3723b1-1c87-4bdd-9f9c-0c7966405cde: 2023-11-07T09:03:39.650959-0300 - INFO - Request to access /university/1 
+Log: [2d3723b1-1c87-4bdd-9f9c-0c7966405cde: 2023-11-07T09:03:39.652789-0300 - INFO - Successfully accessed /university/1 
+Log: [37188f71-b070-40c3-9bc0-ae54fe59bd2f: 2023-11-07T09:03:42.688063-0300 - INFO - Request to access /university/2 
+Log: [37188f71-b070-40c3-9bc0-ae54fe59bd2f: 2023-11-07T09:03:42.689744-0300 - INFO - Successfully accessed /university/2 
+Log: [385c1aae-8862-4b33-8b6d-b6afc9086b1b: 2023-11-07T09:03:52.672964-0300 - INFO - Request to access /university/3 
+Log: [385c1aae-8862-4b33-8b6d-b6afc9086b1b: 2023-11-07T09:03:52.676415-0300 - INFO - Successfully accessed /university/3 
+Log: [5e822c06-ce8a-4dc3-a38f-f2ccbf68c1e0: 2023-11-07T09:04:40.781978-0300 - INFO - Request to access /university/2 
+Log: [5e822c06-ce8a-4dc3-a38f-f2ccbf68c1e0: 2023-11-07T09:04:40.784671-0300 - INFO - Successfully accessed /university/2 
+Log: [e7d1482b-f3b0-426b-8273-0ea8c7ed61e1: 2023-11-07T09:04:43.252337-0300 - INFO - Request to access /openapi.json 
+Log: [e7d1482b-f3b0-426b-8273-0ea8c7ed61e1: 2023-11-07T09:04:43.253567-0300 - INFO - Successfully accessed /openapi.json 
+Log: [a343fa43-8d70-4621-bc61-433e5fdbbd88: 2023-11-07T09:04:48.403920-0300 - INFO - Request to access /university/1 
+Log: [a343fa43-8d70-4621-bc61-433e5fdbbd88: 2023-11-07T09:04:48.405399-0300 - INFO - Successfully accessed /university/1 
+Log: [fdfe8666-0055-407f-83c7-c9d35920ffa3: 2023-11-07T09:04:54.488978-0300 - INFO - Request to access /university/1 
+Log: [fdfe8666-0055-407f-83c7-c9d35920ffa3: 2023-11-07T09:04:54.491688-0300 - INFO - Successfully accessed /university/1 
+Log: [4c950700-9345-436a-9442-79bffcf13eb4: 2023-11-07T09:04:59.027503-0300 - INFO - Request to access /university/3 
+Log: [4c950700-9345-436a-9442-79bffcf13eb4: 2023-11-07T09:04:59.028964-0300 - INFO - Successfully accessed /university/3 
+Log: [a58ddc69-4e56-4ef1-8e40-9c61dcc083ad: 2023-11-07T09:05:37.504824-0300 - INFO - Request to access /1 
+Log: [a58ddc69-4e56-4ef1-8e40-9c61dcc083ad: 2023-11-07T09:05:37.505877-0300 - INFO - Successfully accessed /1 
+Log: [d7025ab9-cf3b-4cf5-8120-6cd51fac35b1: 2023-11-07T09:05:42.655699-0300 - INFO - Request to access /2 
+Log: [d7025ab9-cf3b-4cf5-8120-6cd51fac35b1: 2023-11-07T09:05:42.657180-0300 - INFO - Successfully accessed /2 
+Log: [35c6d0c5-61d1-4090-a7ac-02ccbb0180aa: 2023-11-07T09:05:46.153865-0300 - INFO - Request to access /3 
+Log: [35c6d0c5-61d1-4090-a7ac-02ccbb0180aa: 2023-11-07T09:05:46.154846-0300 - INFO - Successfully accessed /3 
+Log: [eb3f3739-7a22-4ed8-80fe-f6be249cc75f: 2023-11-07T09:06:34.041485-0300 - INFO - Request to access /3 
+Log: [eb3f3739-7a22-4ed8-80fe-f6be249cc75f: 2023-11-07T09:06:34.044784-0300 - INFO - Successfully accessed /3 
+Log: [31d5f587-8cbb-43e7-9cf7-d56091de10e5: 2023-11-07T09:06:38.056445-0300 - INFO - Request to access /2 
+Log: [31d5f587-8cbb-43e7-9cf7-d56091de10e5: 2023-11-07T09:06:38.057467-0300 - INFO - Successfully accessed /2 
+Log: [677713d9-c4b2-45be-aeba-8015d6462f8d: 2023-11-07T09:06:41.037261-0300 - INFO - Request to access /1 
+Log: [677713d9-c4b2-45be-aeba-8015d6462f8d: 2023-11-07T09:06:41.038267-0300 - INFO - Successfully accessed /1 
+Log: [8b91a070-336f-4c7b-895e-d4c05d9e4130: 2023-11-07T09:06:46.411758-0300 - INFO - Request to access /university/1 
+Log: [8b91a070-336f-4c7b-895e-d4c05d9e4130: 2023-11-07T09:06:46.413775-0300 - INFO - Successfully accessed /university/1 
+Log: [4adfc925-7f6b-4dde-903a-09c7e30e7660: 2023-11-07T09:07:27.269484-0300 - INFO - Request to access /university/1 
+Log: [4adfc925-7f6b-4dde-903a-09c7e30e7660: 2023-11-07T09:07:27.271770-0300 - INFO - Successfully accessed /university/1 
+Log: [027c3e1e-8893-47d9-b54d-c73077b90e1c: 2023-11-07T09:07:53.291148-0300 - INFO - Request to access /university/1 
+Log: [027c3e1e-8893-47d9-b54d-c73077b90e1c: 2023-11-07T09:07:53.293265-0300 - INFO - Successfully accessed /university/1 
+Log: [d9bde78b-7b53-455b-b775-f77bcf39f49a: 2023-11-07T09:08:21.879487-0300 - INFO - Request to access /university/1 
+Log: [d9bde78b-7b53-455b-b775-f77bcf39f49a: 2023-11-07T09:08:21.882321-0300 - INFO - Successfully accessed /university/1 
+Log: [dacfa405-0f36-40e9-a455-1ea6be26d351: 2023-11-07T09:08:22.450780-0300 - INFO - Request to access /university/1 
+Log: [dacfa405-0f36-40e9-a455-1ea6be26d351: 2023-11-07T09:08:22.452561-0300 - INFO - Successfully accessed /university/1 
+Log: [63e53465-9124-4ada-9348-402caba9752a: 2023-11-07T09:08:24.339214-0300 - INFO - Request to access /university/1 
+Log: [63e53465-9124-4ada-9348-402caba9752a: 2023-11-07T09:08:24.340758-0300 - INFO - Successfully accessed /university/1 
+Log: [9c2e99d4-1570-4cbb-90b1-bde6f4d6a957: 2023-11-07T09:08:52.177572-0300 - INFO - Request to access /university/1 
+Log: [9c2e99d4-1570-4cbb-90b1-bde6f4d6a957: 2023-11-07T09:08:52.180136-0300 - INFO - Successfully accessed /university/1 
+Log: [e92e5fa5-1eff-4cf3-9b26-533e6e03a8b6: 2023-11-07T09:09:11.633315-0300 - INFO - Request to access /university/1 
+Log: [e92e5fa5-1eff-4cf3-9b26-533e6e03a8b6: 2023-11-07T09:09:11.635664-0300 - INFO - Successfully accessed /university/1 
+Log: [fe33c51a-7ad6-4d84-86fb-d3f2e1d8514e: 2023-11-07T09:09:19.991378-0300 - INFO - Request to access /university/1 
+Log: [fe33c51a-7ad6-4d84-86fb-d3f2e1d8514e: 2023-11-07T09:09:19.993082-0300 - INFO - Successfully accessed /university/1 
+Log: [0c28d840-5199-4f0d-953c-bab5077c1e65: 2023-11-07T09:11:31.251181-0300 - INFO - Request to access /university/1 
+Log: [0c28d840-5199-4f0d-953c-bab5077c1e65: 2023-11-07T09:11:31.253844-0300 - INFO - Successfully accessed /university/1 
