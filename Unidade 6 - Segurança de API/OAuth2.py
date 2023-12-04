@@ -18,7 +18,7 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 fake_users_db = {
-    "johndoe": {
+    "thiago": {
         "username": "thiago",
         "hashed_password": pwd_context.hash("secret"),
         "disabled": False,
